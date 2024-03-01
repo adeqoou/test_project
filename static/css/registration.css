@@ -1,0 +1,53 @@
+body {
+    background-color: #000;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.card {
+    border: none;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 0;
+    border-color: #ced4da;
+    height: 44px;
+    color: #fff;
+    background-color: #343a40;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 0;
+    font-size: 18px;
+    font-weight: bold;
+    height: 44px;
+    width: 100%;
+    color: #fff;
+}
+
+.form-group label {
+    color: #fff;
+}
+
+.label-color {
+    color: #fff
+}
